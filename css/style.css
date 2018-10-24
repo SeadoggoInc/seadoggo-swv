@@ -14,6 +14,16 @@ article{
 	border-style: solid;
 	border-radius: 30px;
 }
+img{
+	border-style: solid;
+	border-radius: 30px;
+	margin: 10px;
+	transition: 20s;
+	box-shadow: 6px 6px 1000px yellow;
+}
+img:hover{
+	transform: rotate(360deg);
+}
 footer{
 	background: #18FF00;
 	border-style: solid;
