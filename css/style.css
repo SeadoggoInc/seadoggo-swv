@@ -1,0 +1,22 @@
+body{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+}
+header{
+	background: #FF0000;
+	margin: 0;	
+	padding: 0;
+}
+main{
+	background:#FF9600;
+	margin: 0;	
+	padding: 0;
+}
+footer{
+	background: #FFFC00;
+	margin: 0;	
+	padding: 0;
+}
+.rotate{
+	transform: rotate(180deg);
+}
