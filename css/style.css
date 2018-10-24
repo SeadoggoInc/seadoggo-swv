@@ -1,22 +1,22 @@
 body{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	text-align: center;
+	background: #FF6FFD;
 }
 header{
-	background: #FF0000;
-	margin: 0;	
-	padding: 0;
+	background: #FF4800;
+	border-style: solid;
+	border-radius: 30px;
+	margin: 10px;
 }
-main{
-	background:#FF9600;
-	margin: 0;	
-	padding: 0;
+article{
+	background: #00FFF6;
+	border-style: solid;
+	border-radius: 30px;
 }
 footer{
-	background: #FFFC00;
-	margin: 0;	
-	padding: 0;
-}
-.rotate{
-	transform: rotate(180deg);
+	background: #18FF00;
+	border-style: solid;
+	border-radius: 30px;
+	margin: 10px;
 }
