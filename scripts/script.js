@@ -1,3 +1,10 @@
+function picture(){ 
+  var pic = "https://i.imgur.com/kuNxMbg.jpg"
+  document.getElementById('Doggo').src = pic.replace('90x90', '225x225');
+  document.getElementById('Doggo').style.display='block';        
+}
+
+
 let input = document.querySelector('input');
  
  
